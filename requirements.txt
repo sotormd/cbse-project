@@ -1,0 +1,7 @@
+stdiomask
+pyperclip
+pyqt6
+pycryptodome
+argon2-cffi
+zxcvbn
+requests
