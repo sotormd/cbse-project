@@ -119,7 +119,6 @@
 
 Python packages
 
-- `stdiomask`
 - `pyperclip`
 - `pyqt6`
 - `pycryptodome`
